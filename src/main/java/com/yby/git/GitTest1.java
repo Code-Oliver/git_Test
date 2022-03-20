@@ -8,5 +8,12 @@ public class GitTest1 {
         System.out.println("GitTest1");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
     }
 }
